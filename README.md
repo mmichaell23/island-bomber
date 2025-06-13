@@ -1,13 +1,13 @@
 # Island Bomber Game
 
-A third-person action game where you navigate a large island and throw bombs with different abilities to defeat enemies that can also throw bombs back at you.
+A top-down action game where you navigate a large island and throw bombs with different abilities to defeat enemies that can also throw bombs back at you.
 
 ![Image](https://github.com/user-attachments/assets/348ca735-c83a-4a56-9090-9d293a314ec9)
 
 ## Game Features
 
 ### Core Gameplay
-- Third-person perspective gameplay with 3D-like effects
+- top-down perspective gameplay with 3D-like effects
 - Large island environment with trees, palm trees, rocks, and water spots
 - Physics-based movement with acceleration and deceleration
 - Jumping mechanics with gravity and bouncing effects
@@ -119,7 +119,7 @@ A third-person action game where you navigate a large island and throw bombs wit
 - `scripts/player.py`: Player character implementation with 3D effects
 - `scripts/bomb.py`: Different bomb types and behaviors with physics
 - `scripts/island.py`: Detailed island environment generation
-- `scripts/camera.py`: Camera system for third-person view
+- `scripts/camera.py`: Camera system for top-down view
 - `scripts/enemy.py`: Enemy AI and behaviors with attack functionality
 - `scripts/powerup.py`: Power-up system implementation
 - `scripts/recorder.py`: Game recording functionality with optimization
