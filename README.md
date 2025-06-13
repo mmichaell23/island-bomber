@@ -7,7 +7,7 @@ A top-down action game where you navigate a large island and throw bombs with di
 ## Game Features
 
 ### Core Gameplay
-- top-down perspective gameplay with 3D-like effects
+- Top-down perspective gameplay with 3D-like effects
 - Large island environment with trees, palm trees, rocks, and water spots
 - Physics-based movement with acceleration and deceleration
 - Jumping mechanics with gravity and bouncing effects
